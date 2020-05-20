@@ -14,7 +14,7 @@
 %
 %  For this exercise, you will not need to change any code in this file,
 %  or any other files other than those mentioned above.
-%
+% test for github to double check that it works
 
 %% Initialization
 clear ; close all; clc
